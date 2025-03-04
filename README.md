@@ -1,0 +1,2 @@
+# JavaClass
+javaclass_latihan
